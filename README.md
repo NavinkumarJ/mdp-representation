@@ -70,4 +70,4 @@ Hiking
 ![image](https://github.com/gpavithra673/mdp-representation/assets/93427264/017ee6de-ec59-4296-b832-979e80f13e89)
 
 ## RESULT:
-Hence we have created an environment suitable for the above mentioned problen.
+Hence we have created an environment suitable for the above mentioned problem.
